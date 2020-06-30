@@ -15,7 +15,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class Practice1 extends Application {
-    // displaying the next 50 days from today in the ListView and showing the selected date in the label
+    // displaying the next 50 days starting today in the ListView and showing the selected date in the label
     private Label lb;
     private ListView<String> lv;
 
